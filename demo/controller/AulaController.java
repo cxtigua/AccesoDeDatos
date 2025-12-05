@@ -13,7 +13,7 @@ public class AulaController {
 
   // Devolver todas las aulas
   // Devolver un aula 
-  // añadir aula
+  // añadir aula -- no se debe repetir
   // modificar aula
   // borrar aula
 }
